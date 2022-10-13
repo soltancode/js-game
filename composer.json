@@ -1,4 +1,11 @@
 {
   "name": "soltancode/js-game",
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Soltan Abilgasimzada",
+      "email": "soltancode@gmail.com",
+      "homepage": "https://soltancode.com"
+    }
+  ]
 }
