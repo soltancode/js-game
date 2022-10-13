@@ -1,15 +1,4 @@
 {
-  "name": "vendor_name/js-game",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "root",
-      "email": "email@example.com"
-    }
-  ],
-  "require": {
-    
-  }
+  "name": "soltancode/js-game",
+  "minimum-stability": "stable"
 }
